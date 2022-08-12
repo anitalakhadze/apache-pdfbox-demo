@@ -1,0 +1,50 @@
+%PDF-1.4
+%цдья
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+>>
+endobj
+3 0 obj
+<<
+/Author (Ani Talakhadze)
+/Title (Apache PDFBox Practice)
+/Creator (Java Code)
+/CreationDate (D:20220812221501+04'00')
+/ModDate (D:20220812221501+04'00')
+/Keywords (Apache, PDF)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R]
+/Count 1
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [0.0 0.0 612.0 792.0]
+/Parent 2 0 R
+>>
+endobj
+xref
+0 5
+0000000000 65535 f
+0000000015 00000 n
+0000000276 00000 n
+0000000078 00000 n
+0000000333 00000 n
+trailer
+<<
+/Root 1 0 R
+/Info 3 0 R
+/ID [<3B96F0EA0DB71C5FD98E25076028B974> <3B96F0EA0DB71C5FD98E25076028B974>]
+/Size 5
+>>
+startxref
+412
+%%EOF
